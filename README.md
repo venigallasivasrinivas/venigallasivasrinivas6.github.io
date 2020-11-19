@@ -11,5 +11,5 @@ The fourth-generation MacBook Pro, released in October 2016, adopted USB-C for a
 
 The fifth-generation MacBook Pro, released in November 2019, returned to a scissor-mechanism keyboard. The initial 16-inch model with a screen set in narrower bezels was followed by a 13-inch model in May 2020.
 
-In November 2020, Apple released an updated 13-inch model based on Apple silicon processors. the end
+In November 2020, Apple released an updated 13-inch model based on Apple silicon processors. the end.
 
