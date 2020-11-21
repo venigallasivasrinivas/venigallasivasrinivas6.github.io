@@ -1,6 +1,5 @@
 # HI THIS MY OFFICIAL WEBSITE CREATED BY VENIGALLA SIVA SRINIVAS  
 The MacBook Pro is a line of Macintosh portable computers introduced in January 2006, by Apple Inc. It is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air, and is sold with 13- and 16-inch screens. A 17-inch version was sold from April 2006 to June 2012.
-http://3.bp.blogspot.com/-0rmBdsFOShc/UJ6N5lAq9II/AAAAAAAAAFc/yMKl--kRe1Q/s1600/tumblr_md7r6zN7UM1qm4wseo1_500.gif
 <img src="http://uskings.us/Userfiles/Upload/images/Apple.jpg">
 
 The first-generation MacBook Pro used the design of the PowerBook G4, but replaced the PowerPC G4 chips with Intel Core processors, added a webcam, and introduced the MagSafe power connector. The 15-inch model was introduced in January 2006; the 17-inch model in April. Later revisions added Core 2 Duo processors and LED-backlit displays.
