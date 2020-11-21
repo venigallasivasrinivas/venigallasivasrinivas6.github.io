@@ -1,6 +1,8 @@
 # HI THIS MY OFFICIAL WEBSITE CREATED BY VENIGALLA SIVA SRINIVAS  
 The MacBook Pro is a line of Macintosh portable computers introduced in January 2006, by Apple Inc. It is the higher-end model of the MacBook family, sitting above the consumer-focused MacBook Air, and is sold with 13- and 16-inch screens. A 17-inch version was sold from April 2006 to June 2012.
-<img src="http://uskings.us/Userfiles/Upload/images/Apple.jpg">
+![tumblr_md7r6zN7UM1qm4wseo1_500](https://user-images.githubusercontent.com/74699789/99875979-9210b280-2ba8-11eb-9acd-40f145c8453f.gif)
+
+
 
 The first-generation MacBook Pro used the design of the PowerBook G4, but replaced the PowerPC G4 chips with Intel Core processors, added a webcam, and introduced the MagSafe power connector. The 15-inch model was introduced in January 2006; the 17-inch model in April. Later revisions added Core 2 Duo processors and LED-backlit displays.
 
@@ -53,6 +55,7 @@ Updates[edit]
 
 A size comparison of the unibody line of MacBook Pro laptops
 During the MacWorld Expo keynote on January 6, 2009, Phil Schiller announced a 17-inch MacBook Pro with unibody construction. This version diverged from its 15-inch sibling with an anti-glare "matte" screen option (with the glossy finish standard) and a non user-removable lithium polymer battery.[40] Instead of traditional round cells inside the casing, the lithium-ion polymer batteries are shaped and fitted into each laptop to maximally utilize space. Adaptive charging, which uses a chip to optimize the charge flow to reduce wear and tear, extends the battery's overall life.[40] Battery life for the 17-inch version is quoted at eight hours, with 80 percent of this charge remaining after 1,000 charge-discharge cycles.[40]
+<img src="http://uskings.us/Userfiles/Upload/images/Apple.jpg">
 
 At Apple's Worldwide Developers Conference (WWDC) on June 8, 2009, it was announced that the 13-inch unibody MacBook would be upgraded and re-branded as a MacBook Pro,[41] leaving only the white polycarbonate MacBook in the MacBook line.[42] It was also announced that the entire MacBook Pro line would use the non user-removable battery first introduced in the 17-inch MacBook Pro.[43] The updated MacBook Pro 13- and the 15-inch would each have up to a claimed seven hours of battery life, while the 17-inch would keep its eight-hour capacity.[41][43] Some sources even reported up to eight hours of battery life for the 13- and 15-inch MacBook Pros during casual use,[44] while others reported around six hours.[36] Like the 17-inch MacBook Pro, Apple claims that they will last around 1,000 charge cycles while still containing 80 percent of their capacity.[45] Graphics card options stayed the same from the previous release, although the 13-inch[46] and the base model 15-inch, came with only the GeForce 9400M GPU.[47] The screens were also improved, gaining a claimed 60 percent greater color gamut.[46][47] All of these mid-2009 models also included a FireWire 800 port and all except the 17-inch models would receive an SD card slot.[32] The 17-inch model would retain its ExpressCard/34 slot.[43] For the 13-inch MacBook Pro, the Kensington lock slot was moved to the right side of the chassis.[48] In August 2009, Apple extended the "matte" anti-glare display option to the 15-inch MacBook Pro.[49]
 
