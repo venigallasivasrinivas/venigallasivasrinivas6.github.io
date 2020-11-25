@@ -2,9 +2,7 @@
 
 Hi ,
 I have created this website to show you the  extraordinary places in india.
-1.MANALI<img src="https://www.treebo.com/blog/wp-content/uploads/2018/06/manali.jpg">
-2.ALLEPPEY<img src="https://www.treebo.com/blog/wp-content/uploads/2018/06/Alleppey.jpg">
-3.OOTY<img src="https://www.treebo.com/blog/wp-content/uploads/2018/06/Ooty-2.jpg">
+![my file](MacBookPro16-Fullview-homescreen-af5efd16489046c0a68f95a1be2f93da.jpg)
 
 
 
