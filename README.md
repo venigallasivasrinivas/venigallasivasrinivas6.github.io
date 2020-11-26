@@ -17,7 +17,7 @@ so set small goals and be happy and have a happy life.
 
 
 
-![my file](MacBookPro16-Fullview-homescreen-af5efd16489046c0a68f95a1be2f93da.jpg)
+![my file](https://www.verywellmind.com/thmb/TEKgXU3eBafV6NaFePL514Y0sAE=/3993x2496/filters:fill(ABEAC3,1)/172594468-56a793465f9b58b7d0ebd64b.jpg)
 
 
 
