@@ -1,24 +1,16 @@
 # HI THIS MY OFFICIAL WEBSITE CREATED BY VENIGALLA SIVA SRINIVAS  
 
-# what is happening with our brain?    - SIVA SRINIVAS VENIGALLA
+# THIS IS A FREE WEBSITE WHICH HELPS YOU TO GAIN THE ESSENTIAL THINGS A COMPUTER SUBJECT LEARNER SHOULD LEARN.
 
-Many of us have some problems. We all see some people struggling to grasp knowledge and some feel that they aren't capable of  what they wanted to achieve.
+#LINUX COMMANDS
 
-First, I wanted you to know that there are 100 billion neurons in our brain . Despite god giving us 100 billion neurons , why people aren't using their brain in a 
-a significant manner?
+As a software developer , you should learn how to use a linux computer , so these commands should be read and be practisced so that you can remember it for a long time and use effeciently in whichever stream you are.
 
-Actually brain is active all the time but uses significant neurons in unimportant things in life. To focuss on the work you do you should continuosly train your brain 
-by doing puzzles ,mental mathematics and learning some topics and remembering it for a lot of time. You should avoid doing some silly things which affects the brain a 
-lot. 
-We see toppers everywhere in the world, but if you observe everyone has the same 100 billion neurons. so it definitely depend on how you train your brain and it is in 
-all in your hands.
-To stay focussed you should be disciplined and help your brain focussed on what you wanted to achieve .
-so set small goals and be happy and have a happy life.
+DOWN BELOW IS A LINK WHERE YOU CAN ACCESS DOWN THE LINUX COMMANS IN A SHORT SPAN OF TIME
+<https://youtu.be/so6XXpqZBy8>
 
+1.ls
+![myvideo](https://user-images.githubusercontent.com/74699789/103294690-58895d80-4a18-11eb-88e5-b6a452ac23c8.png)
+Here you will be able to see a list which all the directories and sub directories and it's contents will be shown on the screen.
+As seen above these are the directories which are listed using the ls command.
 
-
-![my file](https://www.verywellmind.com/thmb/TEKgXU3eBafV6NaFePL514Y0sAE=/3993x2496/filters:fill(ABEAC3,1)/172594468-56a793465f9b58b7d0ebd64b.jpg)
-
-
-
-explore the knowledge using internet you can actually become a legend.
