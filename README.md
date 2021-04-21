@@ -33,8 +33,9 @@
 [Data Structures and Algorithms in Python ](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cb_en_u4cse20370_cb_students_amrita_edu/Efqzr79B8OdNmLgUHinr948BYlPhv-s7dbjBUfYwRiBTVw)
 
   <img width="815" alt="Screenshot 2021-04-21 at 2 38 01 PM" src="https://user-images.githubusercontent.com/74699789/115528001-3f4e3a80-a2af-11eb-993d-2838ba50b495.png">
-[Advanced Engineering Mathematics (10th Edition) by ERWIN KREYSZIG ](https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6349589/Advanced.Engineering.Mathematics.10th.Edition.by.ERWIN.KREYSZIG.studypoint4u.com.pdf.zip)
+[Advanced Engineering Mathematics (10th Edition) by ERWIN KREYSZIG ](https://amritavishwavidyapeetham-my.sharepoint.com/:b:/g/personal/cb_en_u4cse20370_cb_students_amrita_edu/EQtGAG5LuqxBu731s4vpzSsB3eNSsrD68aO-2pmkECOLug)
 
    <img width="784" alt="Screenshot 2021-04-21 at 2 42 29 PM" src="https://user-images.githubusercontent.com/74699789/115528634-d9ae7e00-a2af-11eb-8d1d-e19af7b8c1e6.png">
    ITS ENTERTAINMENT🤩🤩🤩🤩🤩👊👊
+   [![SILENCE](http://img.youtube.com/vi/7kPNVKqSGz0/0.jpg)](http://www.youtube.com/watch?v=7kPNVKqSGz0 "DEADLY")
 
