@@ -36,8 +36,5 @@
 [Advanced Engineering Mathematics (10th Edition) by ERWIN KREYSZIG ](https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6349589/Advanced.Engineering.Mathematics.10th.Edition.by.ERWIN.KREYSZIG.studypoint4u.com.pdf.zip)
 
    <img width="784" alt="Screenshot 2021-04-21 at 2 42 29 PM" src="https://user-images.githubusercontent.com/74699789/115528634-d9ae7e00-a2af-11eb-8d1d-e19af7b8c1e6.png">
-   # ITS ENTERTAINMENT🤩🤩🤩🤩🤩👊👊
-# [![so](http://img.youtube.com/vi/BHd7w2q74xI/0.jpg)](http://www.youtube.com/watch?v=BHd7w2q74xI "entertainment")
-# [![so](http://img.youtube.com/vi/iHzzSao6ypE/0.jpg)](http://www.youtube.com/watch?v=iHzzSao6ypE "entertainment")
-# [![so](http://img.youtube.com/vi/kd2KEHvK-q8/0.jpg)](http://www.youtube.com/watch?v=kd2KEHvK-q8 "entertainment")
-# [![so](http://img.youtube.com/vi/7kPNVKqSGz0/0.jpg)](http://www.youtube.com/watch?v=7kPNVKqSGz0 "entertainment")
+   ITS ENTERTAINMENT🤩🤩🤩🤩🤩👊👊
+
