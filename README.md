@@ -32,9 +32,7 @@
 [Data Structures and Algorithms in Python [Goodrich, Tamassia Goldwasser 2013-03-18].pdf](https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6349562/Data.Structures.and.Algorithms.in.Python.Goodrich.Tamassia.Goldwasser.2013-03-18.pdf)
 ">
   <img width="815" alt="Screenshot 2021-04-21 at 2 38 01 PM" src="https://user-images.githubusercontent.com/74699789/115528001-3f4e3a80-a2af-11eb-993d-2838ba50b495.png">
-  <a href="
-
-[Advanced Engineering Mathematics (10th Edition) by ERWIN KREYSZIG [studypoint4u.com].pdf.zip](https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6349589/Advanced.Engineering.Mathematics.10th.Edition.by.ERWIN.KREYSZIG.studypoint4u.com.pdf.zip)
+  <a href="[Advanced Engineering Mathematics (10th Edition) by ERWIN KREYSZIG [studypoint4u.com].pdf.zip](https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6349589/Advanced.Engineering.Mathematics.10th.Edition.by.ERWIN.KREYSZIG.studypoint4u.com.pdf.zip)
 ">
    <img width="784" alt="Screenshot 2021-04-21 at 2 42 29 PM" src="https://user-images.githubusercontent.com/74699789/115528634-d9ae7e00-a2af-11eb-8d1d-e19af7b8c1e6.png">
 
