@@ -37,16 +37,21 @@
 
    <img width="784" alt="Screenshot 2021-04-21 at 2 42 29 PM" src="https://user-images.githubusercontent.com/74699789/115528634-d9ae7e00-a2af-11eb-8d1d-e19af7b8c1e6.png">
    # ITS ENTERTAINMENT🤩🤩
-   [![SILENCE](http://img.youtube.com/vi/7kPNVKqSGz0/0.jpg)](http://www.youtube.com/watch?v=7kPNVKqSGz0 "DEADLY")
-   [![SILENCE](http://img.youtube.com/vi/VeAK7Bv4F1o/0.jpg)](http://www.youtube.com/watch?v=VeAK7Bv4F1o "DEADLY")
-   [![SILENCE](http://img.youtube.com/vi/vu5aAyy0zCU/0.jpg)](http://www.youtube.com/watch?v=vu5aAyy0zCU "DEADLY")
-   [![SILENCE](http://img.youtube.com/vi/xfYnUaLpdc0/0.jpg)](http://www.youtube.com/watch?v=xfYnUaLpdc0 "DEADLY")
-   
+  
+<iframe width="420" height="315"
+src="http://www.youtube.com/watch?v=7kPNVKqSGz0">
+</iframe>
+<iframe width="420" height="315"
+src="http://www.youtube.com/watch?v=VeAK7Bv4F1o">
+</iframe>
+<iframe width="420" height="315"
+src="http://www.youtube.com/watch?v=vu5aAyy0zCU">
+</iframe>
+<iframe width="420" height="315"
+src="http://www.youtube.com/watch?v=xfYnUaLpdc0">
+</iframe>
 # follow me on instagram
 ![siva6rocks_nametag](https://user-images.githubusercontent.com/74699789/115538422-7d505c00-a2b9-11eb-8d03-74d80b2ed540.png)
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
-</iframe>
         
       
 
