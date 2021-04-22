@@ -1,6 +1,6 @@
 # hey 👋 just for fun I created this website.
 # THESE ARE THE IMPORTANT THINGS FOR OUR CLASS😷😷
-# SYLLABUS for our semister 2:😷
+# SYLLABUS for our semester 2:😷
 # just click on the comic to get the pdf which will get downloaded in your device.👾
 
    <a href="https://github.com/venigallasivasrinivas6/venigallasivasrinivas6.github.io/files/6245265/CSE.2019.Curriculum.and.Syllabus.pdf">
