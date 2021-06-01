@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-06-01 at 6 27 13 PM](https://user-images.githubusercontent.com/74699789/120327320-42553580-c307-11eb-8ec9-3a0f57a132bd.jpeg)
 # hey 👋 just for fun I created this website.
 # THESE ARE THE IMPORTANT THINGS FOR OUR CLASS😷😷
 # SYLLABUS for our semester 2:😷
